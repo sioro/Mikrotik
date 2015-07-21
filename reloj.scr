@@ -1,6 +1,6 @@
 # SIORO ELECTRONICS SAS
 # cursos@sioro.co
-# Cursos de Mikrotik, ubiquiti y Asterisk
+# Cursos de Mikrotik
 
 # Fecha y Hora Actual, vía NTP
 /system ntp client
